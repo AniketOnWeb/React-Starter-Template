@@ -1,12 +1,12 @@
-import React from "react";
-import { render } from "react-dom";
+import React from 'react'
 
-const App = () => {
+export const App = () => {
   return (
     <div>
-      <h1>Adopt Me!</h1>
-    </div>
-  );
-};
+      hi
+   </div>
+  )
+}
 
-render(<App />, document.getElementById("root"));
+
+
